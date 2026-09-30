@@ -1,7 +1,7 @@
 indw = input("Ennter the string")
 print(indw)
 
-" PS C:\Users\Sethy\OneDrive\Music\finaltest\LocalRepo> git commit -m "
+" PS C:\Users\Sethy\OneDrive\Music\finaltest\LocalRepo> git commit -m -ls"
 """
 Unpacking objects: 100% (1/1), 885 bytes | 147.00 KiB/s, done.
 From https://github.com/jyotirmaysethy22-stack/testApp
